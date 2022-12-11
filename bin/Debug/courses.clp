@@ -55,7 +55,7 @@
         (id 5)
         (institution CELT-COLLEGES)
         (category language)
-        (budget low)
+        (budget high)
         (regime offline)
         )
     )
