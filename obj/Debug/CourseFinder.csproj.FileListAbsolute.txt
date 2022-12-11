@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\bin\Debug\CourseFinder.exe.config
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\bin\Debug\CourseFinder.exe
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\bin\Debug\CourseFinder.pdb
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\obj\Debug\CourseFinder.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\obj\Debug\CourseFinder.Properties.Resources.resources
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\obj\Debug\CourseFinder.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\obj\Debug\CourseFinder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\obj\Debug\CourseFinder.exe
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\obj\Debug\CourseFinder.pdb
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\obj\Debug\CourseFinder.CourseFinder.resources
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\bin\Debug\CLIPSCLRWrapper.dll
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\bin\Debug\CLIPSCLRWrapper.pdb
+C:\Users\Administrator\Documents\clips_windows_projects_640\MVS_2019\CourseFinder\obj\Debug\CourseFinder.csproj.CopyComplete
