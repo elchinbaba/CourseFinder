@@ -43,39 +43,42 @@ namespace CourseFinder
             // 
             // cBoxCategory
             // 
+            this.cBoxCategory.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cBoxCategory.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cBoxCategory.FormattingEnabled = true;
             this.cBoxCategory.Items.AddRange(new object[] {
             "programming",
             "business",
             "language"});
-            this.cBoxCategory.Location = new System.Drawing.Point(129, 92);
+            this.cBoxCategory.Location = new System.Drawing.Point(143, 97);
             this.cBoxCategory.Name = "cBoxCategory";
             this.cBoxCategory.Size = new System.Drawing.Size(276, 33);
             this.cBoxCategory.TabIndex = 0;
             // 
             // cBoxBudget
             // 
+            this.cBoxBudget.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cBoxBudget.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cBoxBudget.FormattingEnabled = true;
             this.cBoxBudget.Items.AddRange(new object[] {
             "low",
             "mid",
             "high"});
-            this.cBoxBudget.Location = new System.Drawing.Point(129, 169);
+            this.cBoxBudget.Location = new System.Drawing.Point(143, 174);
             this.cBoxBudget.Name = "cBoxBudget";
             this.cBoxBudget.Size = new System.Drawing.Size(276, 33);
             this.cBoxBudget.TabIndex = 1;
             // 
             // cBoxRegime
             // 
+            this.cBoxRegime.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cBoxRegime.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cBoxRegime.FormattingEnabled = true;
             this.cBoxRegime.Items.AddRange(new object[] {
             "online",
             "offline",
             "hybrid"});
-            this.cBoxRegime.Location = new System.Drawing.Point(129, 253);
+            this.cBoxRegime.Location = new System.Drawing.Point(143, 253);
             this.cBoxRegime.Name = "cBoxRegime";
             this.cBoxRegime.Size = new System.Drawing.Size(276, 33);
             this.cBoxRegime.TabIndex = 2;
@@ -83,7 +86,7 @@ namespace CourseFinder
             // btnFind
             // 
             this.btnFind.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnFind.Location = new System.Drawing.Point(172, 334);
+            this.btnFind.Location = new System.Drawing.Point(186, 339);
             this.btnFind.Name = "btnFind";
             this.btnFind.Size = new System.Drawing.Size(138, 58);
             this.btnFind.TabIndex = 3;
@@ -95,7 +98,7 @@ namespace CourseFinder
             // 
             this.lblResult.AutoSize = true;
             this.lblResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResult.Location = new System.Drawing.Point(557, 136);
+            this.lblResult.Location = new System.Drawing.Point(539, 136);
             this.lblResult.Name = "lblResult";
             this.lblResult.Size = new System.Drawing.Size(93, 25);
             this.lblResult.TabIndex = 4;
@@ -105,7 +108,7 @@ namespace CourseFinder
             // pBoxInstitution
             // 
             this.pBoxInstitution.Cursor = System.Windows.Forms.Cursors.Default;
-            this.pBoxInstitution.Location = new System.Drawing.Point(482, 199);
+            this.pBoxInstitution.Location = new System.Drawing.Point(481, 186);
             this.pBoxInstitution.Name = "pBoxInstitution";
             this.pBoxInstitution.Size = new System.Drawing.Size(244, 146);
             this.pBoxInstitution.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -116,7 +119,7 @@ namespace CourseFinder
             // 
             this.lblCategory.AutoSize = true;
             this.lblCategory.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCategory.Location = new System.Drawing.Point(24, 95);
+            this.lblCategory.Location = new System.Drawing.Point(26, 100);
             this.lblCategory.Name = "lblCategory";
             this.lblCategory.Size = new System.Drawing.Size(92, 25);
             this.lblCategory.TabIndex = 6;
@@ -126,7 +129,7 @@ namespace CourseFinder
             // 
             this.lblBudget.AutoSize = true;
             this.lblBudget.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblBudget.Location = new System.Drawing.Point(42, 172);
+            this.lblBudget.Location = new System.Drawing.Point(44, 177);
             this.lblBudget.Name = "lblBudget";
             this.lblBudget.Size = new System.Drawing.Size(74, 25);
             this.lblBudget.TabIndex = 7;
@@ -136,7 +139,7 @@ namespace CourseFinder
             // 
             this.lblRegime.AutoSize = true;
             this.lblRegime.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRegime.Location = new System.Drawing.Point(38, 256);
+            this.lblRegime.Location = new System.Drawing.Point(40, 256);
             this.lblRegime.Name = "lblRegime";
             this.lblRegime.Size = new System.Drawing.Size(78, 25);
             this.lblRegime.TabIndex = 8;
